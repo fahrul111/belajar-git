@@ -1,3 +1,14 @@
 body{
     color: aqua;
 }
+
+p{
+    text-align: center;
+    color: black;
+    font-size: 2em;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
